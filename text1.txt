@@ -1,2 +1,6 @@
 This is a text file.
+<<<<<<< HEAD
+Not a new line.
+=======
 A new line.
+>>>>>>> a1e798225615abad1e61a4d26c15d7ba9002805c
